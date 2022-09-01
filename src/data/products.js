@@ -1,0 +1,73 @@
+const products = [
+    {
+      id: 0,
+      type: "phone",
+      name: "Iphone 11",
+      stock: true,
+      price: 816.49,
+    },
+    {
+      id: 1,
+      type: "phone",
+      name: "Iphone 13 Pro Max",
+      stock: false,
+      price: 1544.52,
+    },
+    {
+      id: 2,
+      type: "console",
+      name: "Play Station 5",
+      stock: false,
+      price: 600,
+    },
+    {
+      id: 3,
+      type: "component",
+      name: "RTX 3080 ti",
+      stock: false,
+      price: 820.15,
+    },
+    {
+      id: 4,
+      type: "tv",
+      name: "LG OLED 4K 55'",
+      stock: true,
+      price: 1447.97,
+    },
+    {
+      id: 5,
+      type: "console",
+      name: "XBOX Series X",
+      stock: true,
+      price: 600,
+    },
+    {
+      id: 6,
+      type: "phone",
+      name: "Iphone 13",
+      stock: false,
+      price: 900,
+    },
+    {
+      id: 7,
+      type: "computer",
+      name: "Mac Studio M1 Ultra",
+      stock: true,
+      price: 1500,
+    },
+    {
+      id: 8,
+      type: "component",
+      name: "Intel Core I9 12° Gen",
+      stock: true,
+      price: 1000,
+    },
+    {
+      id: 9,
+      type: "headphones",
+      name: "Galaxy Buds 2",
+      stock: true,
+      price: 20,
+    },
+  ];
+export default products;
